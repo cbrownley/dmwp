@@ -20,4 +20,4 @@ females = df.loc[df.gender == 'female',:]
 
 # write data to CSV file
 females.to_csv(output_file, index=False)
-print('Wrote file.')
+print('Finished writing file.')

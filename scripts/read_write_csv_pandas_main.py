@@ -34,10 +34,14 @@ def write_outfile(df, outfilepath):
 
 
 def main():
+    # capture the input and output filenames from the command line
     input_file, output_file = capture_command_line_arguments()
+    # read the input file into a DataFrame
     df = read_infile(input_file)
+    # create a new DataFrame that contains data for females
     females = process_file(df, df.gender == 'female')
+    # write the females DataFrame to the output file
     write_outfile(females, output_file)
-    print('Wrote file.')
+    print('Finished writing file.')
 
 main()
