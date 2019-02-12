@@ -1,0 +1,11 @@
+name.title,name.first,name.last,gender,dob,location.street,location.city,location.state,location.postcode,email,phone
+ms,kim,hunt,female,1975-05-10 21:16:58,5184 marsh ln,fayetteville,arkansas,14445,kim.hunt@example.com,(273)-395-2991
+mr,jimmie,kelley,male,1982-08-05 18:07:54,3553 depaul dr,washington,iowa,23099,jimmie.kelley@example.com,(977)-483-3949
+miss,kaylee,watts,female,1989-09-29 15:04:57,9091 valley view ln,billings,alaska,98164,kaylee.watts@example.com,(975)-251-8711
+mr,oscar,castro,male,1983-08-17 03:31:02,7290 frances ct,hollywood,new jersey,32749,oscar.castro@example.com,(141)-750-0658
+mrs,catherine,butler,female,1995-05-04 00:51:12,5288 e little york rd,boston,wyoming,23309,catherine.butler@example.com,(330)-438-7482
+ms,charlene,newman,female,1994-01-03 22:23:02,9480 e pecan st,miramar,pennsylvania,88154,charlene.newman@example.com,(165)-157-3239
+mr,byron,bell,male,1946-11-02 11:57:14,9384 blossom hill rd,paterson,texas,95089,byron.bell@example.com,(560)-108-7345
+mr,tim,ruiz,male,1987-03-11 19:18:21,2274 plum st,chandler,north carolina,46278,tim.ruiz@example.com,(163)-803-3902
+mrs,elsie,larson,female,1972-11-13 09:27:51,9875 valley view ln,brownsville,alabama,34938,elsie.larson@example.com,(180)-808-9208
+miss,felecia,garrett,female,1994-09-20 11:14:25,2334 white oak dr,cedar rapids,minnesota,46613,felecia.garrett@example.com,(340)-164-7490

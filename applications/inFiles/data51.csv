@@ -1,0 +1,11 @@
+name.title,name.first,name.last,gender,dob,location.street,location.city,location.state,location.postcode,email,phone
+miss,kylie,gonzales,female,1957-07-12 16:14:09,2621 adams st,grants pass,oregon,80970,kylie.gonzales@example.com,(208)-571-0354
+mr,kenneth,hall,male,1982-06-25 20:44:17,6659 railroad st,tacoma,montana,37980,kenneth.hall@example.com,(026)-176-9352
+mr,felix,perry,male,1973-07-27 15:03:01,7674 lakeview st,worcester,massachusetts,61569,felix.perry@example.com,(780)-447-2913
+miss,riley,newman,female,1967-04-12 09:08:16,1264 sunset st,lafayette,delaware,55052,riley.newman@example.com,(102)-816-5807
+miss,janet,craig,female,1955-04-11 17:08:34,9369 photinia ave,frederick,rhode island,48577,janet.craig@example.com,(923)-794-5300
+miss,claire,lee,female,1983-09-09 13:20:11,5644 sunset st,provo,kentucky,72164,claire.lee@example.com,(445)-457-0214
+mr,martin,thompson,male,1958-03-04 16:15:40,6823 groveland terrace,eureka,south carolina,61908,martin.thompson@example.com,(974)-268-5608
+mr,alfredo,graham,male,1969-12-27 08:37:56,3476 daisy dr,shelby,new york,17906,alfredo.graham@example.com,(700)-598-4841
+mr,andy,harris,male,1966-04-24 06:20:32,9327 timber wolf trail,sioux falls,alaska,45458,andy.harris@example.com,(820)-763-9497
+ms,stacy,gutierrez,female,1969-02-23 10:38:34,3130 avondale ave,hayward,nebraska,68181,stacy.gutierrez@example.com,(221)-664-0546
